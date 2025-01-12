@@ -1,0 +1,1 @@
+This repository demonstrates a common, subtle error in Tcl involving the syntax of the `if` statement.  The `badproc` procedure incorrectly omits curly braces, causing unexpected behavior and highlighting a frequent source of bugs for those unfamiliar with Tcl's syntax quirks.
